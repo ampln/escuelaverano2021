@@ -8,10 +8,10 @@ cover-img:
 ---
 
 <div class="list-filters">
-  <a href="/" class="list-filter">Inicio</a>
-  <a href="/about" class="list-filter">Acerca de</a>
-  <a href="/speakers" class="list-filter">Ponentes</a>
-  <a href="/calendar" class="list-filter filter-selected">Calendario</a>
+  <a href="/escuelaverano2021/" class="list-filter">Inicio</a>
+  <a href="/escuelaverano2021/about/" class="list-filter">Acerca de</a>
+  <a href="/escuelaverano2021/speakers/" class="list-filter">Ponentes</a>
+  <a href="/escuelaverano2021/calendar/" class="list-filter filter-selected">Calendario</a>
 </div>
 
 ---
