@@ -15,8 +15,8 @@ title: Comité Organizador
 [3]: http://twitter.com/EsauVT
 
 ### Comité organizador
-* [Dra. Thamar Solorio](http://solorio.uh.edu/) [![alt text][1.2]][1]
-* [Dra. Ximena Gutierrez](https://www.spur.uzh.ch/en/aboutus/Personen/staff/postdocs/Ximena-Gutierrez-Vasques.html) [![alt text][1.2]][2]
+* [Dra. Thamar Solorio](http://solorio.uh.edu/)(TBC) [![alt text][1.2]][1]
+* [Dra. Ximena Gutierrez](https://www.spur.uzh.ch/en/aboutus/Personen/staff/postdocs/Ximena-Gutierrez-Vasques.html)(TBC) [![alt text][1.2]][2]
 * [Dr. Esaú Villatoro Tello](http://ccd.cua.uam.mx/~evillatoro) [![alt text][1.2]][3]
 
 ----------
