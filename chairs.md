@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Comité Organizador
+title: Organizing Committee
 
 ---
 <!-- icons without padding -->
@@ -15,25 +15,25 @@ title: Comité Organizador
 [3]: http://twitter.com/EsauVT
 [4]: https://twitter.com/cafe_con_pan
 
-### Comité organizador
-* [Dra. Thamar Solorio](http://solorio.uh.edu/) (TBC) [![alt text][1.2]][1]
-* [Dra. Ximena Gutierrez](https://www.spur.uzh.ch/en/aboutus/Personen/staff/postdocs/Ximena-Gutierrez-Vasques.html) (TBC) [![alt text][1.2]][2]
+### Organizing Committee
+* [Dr. Thamar Solorio](http://solorio.uh.edu/) (TBC) [![alt text][1.2]][1]
+* [Dr. Ximena Gutierrez](https://www.spur.uzh.ch/en/aboutus/Personen/staff/postdocs/Ximena-Gutierrez-Vasques.html) (TBC) [![alt text][1.2]][2]
 * [Dr. Esaú Villatoro Tello](http://ccd.cua.uam.mx/~evillatoro) [![alt text][1.2]][3]
 
 ----------
-### Comité de inscripciones
+### Enrollment Committee
 * [M.C. Gabriela Ramírez-de-la-Rosa](https://gabyrr.github.io/) (TBC) [![alt text][1.2]][4]
 
 ----------
-### Comité de documentación
+### Documentation committee
 TBA
 
 ----------
-### Comité de difusión
+### Dissemination Committee
 TBA
 
 ----------
-### Instituciones participantes.
+### Participating institutions.
 * [Asociación Mexicana para el Procesamiento de Lenguaje Natural](http://ampln.mx/)
 * [Red Temática en Tecnologías del Lenguaje](http://ltl.inaoep.mx/RedTTL)
 * [Universidad Autónoma Metropolitana](http://www.uam.mx/)
