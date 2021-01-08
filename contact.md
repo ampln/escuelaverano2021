@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Contacto
-subtitle: ¿Alguna pregunta?
+title: Contact
+subtitle: Any questions?
 ---
 
-Puedes enviarme un [correo](mailto:evillatoro@cua.uam.mx) si tienes alguna duda o comentario respecto la información de este sitio. Procuraré responder lo antes posible, pero si no sucede así, siente la total libertad de recordármelo.
+You are welcome to send me an [email](mailto:evillatoro@cua.uam.mx) if you have any questions or comments regarding the information on this site. I will try my best to respond as soon as possible, but feel free to send me a reminder if this does not occur.
