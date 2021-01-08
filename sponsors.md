@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Patrocinadores
+title: Sponsors
 
 ---
 
-La realización de la Escuela de PLN es gracias al esfuerzo de mucha gente, si te gustaría ser voluntario durante la edición 2021, no dudes en contactarnos.
+The NLP Summer School is possible thanks to the efforts of many people. If you would like to volunteer during the 2021 edition, please do not hesitate to contact us.
 
 ---
 If you are interested in sponsoring this great effort, please contact us!!
