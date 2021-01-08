@@ -1,29 +1,29 @@
 ---
 layout: page
-title: Código de Conducta
+title: Code of Conduct
 
 ---
-## Escuela de Verano en PLN 2021
+## NLP Summer School 2021
 
-### Código de Conducta
+### Code of Conduct
 
-La Escuela de Verano en PLN 2021 tiene como objetivo acercar a los participantes al Procesamiento de Lenguaje Natural, a la investigación nacional y discutir sobre el futuro del campo a nivel nacional e internacional. En la Escuela de Verano se promueve el intercambio libre de ideas y de pensamientos orientados al enriquecimiento científico de los temas abordados en los diferentes talleres, pláticas y paneles de discusión.
+The NLP Summer School’s objective is to bring participants closer to natural language processing, national research, and to discuss the field’s future at the national and international level. Free exchange of ideas and thoughts oriented towards the scientific enrichment of the topics discussed in the different workshops, research talks, and panel discussions is encouraged. 
 
-Con esto en mente, dentro de la Escuela de Verano se busca promover el respeto mutuo y las conductas apropiadas que permitan llevar a cabo el evento de manera amena y en un ambiente de cordialidad mutua. La Escuela de Verano busca ser una experiencia libre de hostigamientos de cualquier tipo, sea este por género, racial, por religión, edad, color de piel, apariencia, nacionalidad, orientación sexual, identidad de género o capacidades diferentes.
+With this in mind, the school seeks to promote mutual respect and appropriate conduct that will allow for the event to be carried out in an atmosphere of mutual cordiality. It seeks to be an experience free of harassment of any kind, be it by gender, religion, age, skin color, nationality, sexual orientation, gender identity, or different capabilities.
 
-En busca de alcanzar estos objetivos, no se permitirán conductas tales como:
+In pursuit of these goals, the following behaviors and others of such are not allowed:
 
-* Comentarios degradantes y/o ofensivos
-* Acoso
-* Intimidación
-* Contacto físico inapropiado
-* Uso inapropiado de información
-* Cualquier tipo de acto o comentario que vulnere a personas o grupos
+* Demeaning and/or offensive comments
+* Bullying
+* Intimidation
+* Inappropriate physical contact
+* Inappropriate use of information
+* Any type of act or comment that violates a person or group
 
-Este código de conducta busca que los intercambios y los debates científicos se lleven a cabo con respeto y diversidad, fomentando que todos los asistentes se sientan libres de participar. Ante cualquier acto que no respete los puntos aquí planteados, el comité organizador podrá tomar las siguientes acciones:
+This code of conduct seeks that exchanges and scientific debates be carried out with respect and diversity, encouraging all attendees to feel free to participate. In the event of any act that does not respect the points listed here, the organizing committee may take the following actions:
 
-* Suspensión temporal de la escuela de verano.
-* Suspensión definitiva de la escuela de verano y por lo tanto no recibirá reconocimiento de asistencia.
+* Temporary suspension from the NLP Summer School. 
+* Permanent suspension from the NLP Summer School, and thus resulting in no recognition of attendance. 
 
 ----------
-Comité organizador.
+Organizing Committee.
