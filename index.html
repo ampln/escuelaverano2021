@@ -1,7 +1,7 @@
 ---
 layout: home
 title: NLP Summer School 2021
-subtitle: (June 4th and 5th, 2021)
+subtitle: (June 3rd and 4th, 2021)
 css: "/assets/css/index.css"
 cover-img:
   - "/assets/images/la-lengua-nahuatl3.jpg" : "CDMX, 2021"
