@@ -1,7 +1,7 @@
 ---
 layout: home
 title: NLP Summer School 2021
-subtitle: (June 3rd and 4th, 2021)
+subtitle: (June 2-4, 2021)
 css: "/assets/css/index.css"
 cover-img:
   - "/assets/images/la-lengua-nahuatl3.jpg" : "CDMX, 2021"
@@ -17,7 +17,7 @@ cover-img:
 ---
 **Important Dates**
 
-The NLP Summer School 2021 will be held on June 3rd and 4th, 2021.
+The NLP Summer School 2021 will be held on June 2nd, 3rd and 4th, 2021.
 
 The complete schedule for the NLP Summer School 2021 will be announced soon!!!
 
