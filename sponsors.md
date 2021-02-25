@@ -23,7 +23,7 @@ The Mexican NLP Summer School is possible thanks to the efforts of many people. 
    <img height="150" src="{{ 'assets/images/cimat.png'| relative_url }}" alt="CIMAT" hspace="30">
  </div>
  <div class="column">
-   <img height="90" src="{{ 'assets/images/UAMC.png'| relative_url }}" alt="UAM Cuajimalpa" hspace="30">
+   <img height="110" src="{{ 'assets/images/UAMC.png'| relative_url }}" alt="UAM Cuajimalpa" hspace="30">
  </div>
  <div class="column">
    <img height="120" src="{{ 'assets/images/IIMAS.png'| relative_url }}" alt="IIMAS UNAM" hspace="30">
