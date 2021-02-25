@@ -36,8 +36,9 @@ title: Organizing Committee
 * [Dr. Luis Villaseñor Pineda](https://ccc.inaoep.mx/~villasen/)
 
 ----------
-### Publicity Committee
+### Publicity and Web Committee
 * [Dr. Ivan Vladimir Meza Ruiz](http://turing.iimas.unam.mx/~ivanvladimir/)[![alt text][1.2]][8]
+* Armando Morales
 
 ----------
 ### Participating institutions.
