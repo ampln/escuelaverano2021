@@ -11,7 +11,7 @@ The Mexican NLP Summer School is possible thanks to the efforts of many people. 
 
 <div class="row">
 <div class="column">
-  <img height="70" src="{{ 'assets/images/ampln.png'| relative_url }}" alt="AMPLN" style="width:100%">
+  <img height="70" src="{{ 'assets/images/ampln.png'| relative_url }}" alt="AMPLN" hspace="20">
 </div>
  <div class="column">
    <img height="80" src="{{ 'assets/images/red.jpg'| relative_url }}" alt="RedTTL" />
