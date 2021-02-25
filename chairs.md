@@ -18,6 +18,7 @@ title: Organizing Committee
 [6]: https://twitter.com/apastorlm
 [7]: https://twitter.com/frantishek
 [8]: https://twitter.com/ivanvladimir
+[9]: https://twitter.com/hego_py
 
 ### Organizing Committee
 * [Dr. Thamar Solorio](http://solorio.uh.edu/)  [![alt text][1.2]][1]
@@ -28,16 +29,17 @@ title: Organizing Committee
 ### Registration Committee
 * [M.C. Gabriela Ramírez-de-la-Rosa](https://gabyrr.github.io/)  [![alt text][1.2]][4]
 * [Dr. Samuel Gonzáles López](http://samuelgonzalez-lopez.com/) [![alt text][1.2]][5]
+* [Dra. Helena Gómez Adorno](https://helenagomez-adorno.github.io/) [![alt text][1.2]][9]
 
 ----------
 ### Sponsorship and Funding Committee
-* [Dr. Adrian Pastor López Monroy](http://personal.cimat.mx:8181/~pastor.lopez/)[![alt text][1.2]][6]
-* [Dr. Hiram Calvo](http://hiramcalvo.com/)[![alt text][1.2]][7]
+* [Dr. Adrian Pastor López Monroy](http://personal.cimat.mx:8181/~pastor.lopez/) [![alt text][1.2]][6]
+* [Dr. Hiram Calvo](http://hiramcalvo.com/) [![alt text][1.2]][7]
 * [Dr. Luis Villaseñor Pineda](https://ccc.inaoep.mx/~villasen/)
 
 ----------
 ### Publicity and Web Committee
-* [Dr. Ivan Vladimir Meza Ruiz](http://turing.iimas.unam.mx/~ivanvladimir/)[![alt text][1.2]][8]
+* [Dr. Ivan Vladimir Meza Ruiz](http://turing.iimas.unam.mx/~ivanvladimir/) [![alt text][1.2]][8]
 * Armando Morales
 
 ----------
