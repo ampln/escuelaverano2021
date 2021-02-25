@@ -32,7 +32,7 @@ The Mexican NLP Summer School is possible thanks to the efforts of many people. 
    <img height="90" src="{{ 'assets/images/CIC_IPN.jpg'| relative_url }}" alt="CIC IPN" hspace="20">
  </div>
  <div class="column">
-   <img height="90" src="{{ 'assets/images/UTN.jpg'| relative_url }}" alt="UTN" hspace="20">
+   <img height="90" src="{{ 'assets/images/UTN.png'| relative_url }}" alt="UTN" hspace="20">
  </div>
 </div>
 
