@@ -14,22 +14,22 @@ The Mexican NLP Summer School is possible thanks to the efforts of many people. 
   <img height="70" src="{{ 'assets/images/ampln.png'| relative_url }}" alt="AMPLN" hspace="20">
 </div>
  <div class="column">
-   <img height="80" src="{{ 'assets/images/red.jpg'| relative_url }}" alt="RedTTL" hspace="20">
+   <img height="90" src="{{ 'assets/images/red.jpg'| relative_url }}" alt="RedTTL" hspace="20">
  </div>
  <div class="column">
    <img height="100" src="{{ 'assets/images/alianzaIA.png'| relative_url }}" alt="AlianzaIA MX" hspace="20">
  </div>
  <div class="column">
-   <img height="100" src="{{ 'assets/images/cimat.png'| relative_url }}" alt="CIMAT" hspace="20">
+   <img height="120" src="{{ 'assets/images/cimat.png'| relative_url }}" alt="CIMAT" hspace="20">
  </div>
  <div class="column">
-   <img height="100" src="{{ 'assets/images/UAMC.png'| relative_url }}" alt="UAM Cuajimalpa" hspace="20">
+   <img height="80" src="{{ 'assets/images/UAMC.png'| relative_url }}" alt="UAM Cuajimalpa" hspace="20">
  </div>
  <div class="column">
-   <img height="100" src="{{ 'assets/images/IIMAS.png'| relative_url }}" alt="IIMAS UNAM" hspace="20">
+   <img height="90" src="{{ 'assets/images/IIMAS.png'| relative_url }}" alt="IIMAS UNAM" hspace="20">
  </div>
  <div class="column">
-   <img height="100" src="{{ 'assets/images/CIC_IPN.png'| relative_url }}" alt="CIC IPN" hspace="20">
+   <img height="90" src="{{ 'assets/images/CIC_IPN.jpg'| relative_url }}" alt="CIC IPN" hspace="20">
  </div>
 </div>
 
