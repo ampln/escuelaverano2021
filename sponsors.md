@@ -7,7 +7,8 @@ title: Sponsors
 The Mexican NLP Summer School is possible thanks to the efforts of many people. If you would like to volunteer during the 2021 edition, please do not hesitate to contact us.
 
 ---
-### Participating institutions.
+### Sponsoring Institutions
+
 
 <div class="row">
 <div class="column">
