@@ -18,7 +18,7 @@ The Mexican NLP Summer School is possible thanks to the efforts of many people. 
    <img height="130" src="{{ 'assets/images/alianzaIA.png'| relative_url }}" alt="AlianzaIA MX" hspace="30">
  </div>
  <div class="column">
-   <img height="130" src="{{ 'assets/images/SMIA.png'| relative_url }}" alt="CIMAT" hspace="30">
+   <img height="110" src="{{ 'assets/images/SMIA.png'| relative_url }}" alt="CIMAT" hspace="30">
  </div>
  <div class="column">
    <img height="150" src="{{ 'assets/images/cimat.png'| relative_url }}" alt="CIMAT" hspace="30">
