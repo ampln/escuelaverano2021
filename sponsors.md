@@ -10,14 +10,14 @@ The Mexican NLP Summer School is possible thanks to the efforts of many people. 
 ### Participating institutions.
 
 <div class="row">
+<div class="column">
+  <img height="200" src="{{ 'assets/images/ampln.png'| relative_url }}" alt="AMPLN" />
+</div>
  <div class="column">
-   <img src="{{ 'assets/images/cimat.png'| relative_url }}" alt="Snow" style="width:100%">
+   <img height="200" src="{{ 'assets/images/red.jpg'| relative_url }}" alt="RedTTL" />
  </div>
  <div class="column">
-   <img src="{{ 'assets/images/alianzaIA.png'| relative_url }}" alt="Forest" style="width:100%">
- </div>
- <div class="column">
-   <img src="{{ 'assets/images/ampln.png'| relative_url }}" alt="Mountains" style="width:100%">
+   <img height="200" src="{{ 'assets/images/alianzaIA.png'| relative_url }}" alt="AlianzaIA MX" />
  </div>
 </div>
 
