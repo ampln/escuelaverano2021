@@ -1,6 +1,6 @@
 ---
 layout: home
-title: NLP Summer School 2021
+title: Mexican NLP Summer School 2021
 subtitle: (June 2-4, 2021)
 css: "/assets/css/index.css"
 cover-img:
