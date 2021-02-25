@@ -11,13 +11,13 @@ The Mexican NLP Summer School is possible thanks to the efforts of many people. 
 
 <div class="row">
  <div class="column">
-   <img src="assets/images/cimat.png" alt="Snow" style="width:100%">
+   <img src="{{ 'assets/images/cimat.png'| relative_url }}" alt="Snow" style="width:100%">
  </div>
  <div class="column">
-   <img src="assets/images/alianzaIA.png" alt="Forest" style="width:100%">
+   <img src="{{ 'assets/images/alianzaIA.png'| relative_url }}" alt="Forest" style="width:100%">
  </div>
  <div class="column">
-   <img src="'assets/images/ampln.png" alt="Mountains" style="width:100%">
+   <img src="{{ 'assets/images/ampln.png'| relative_url }}" alt="Mountains" style="width:100%">
  </div>
 </div>
 
