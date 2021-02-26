@@ -15,9 +15,9 @@ author: AMPLN
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About: "about"
   Speakers: "speakers"
   Program: "program"
+  About: "about"
   Code of Conduct: "CodigoConducta"
   Organization:
     - Organizers: "chairs"
