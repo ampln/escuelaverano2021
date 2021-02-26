@@ -17,11 +17,37 @@ css: "/assets/css/index.css"
 		<!-- Section 1: Biography -->
 		<section id="main-bio">
 			<!-- h2: Tier-2 Headline (Not as important as the h1 header, but more than one allowed). -->
+			<h2>Dr. Rada Mihalcea</h2>
+      <h4>Professor at the University of Michigan</h4>
+      <br>
+			<!-- Headshot image -->
+			<img width="230" id="bio-image" src="{{ 'assets/images/Rada.jpg'| relative_url }}"  align="left" alt="Rada Mihalcea" hspace="10">
+      Rada Mihalcea is a Professor of Computer Science and Engineering at the University of Michigan and the Director of the Michigan Artificial Intelligence Lab. Her research interests are in computational linguistics, with a focus on lexical semantics, multilingual natural language processing, and computational social sciences. She serves or has served on the editorial boards of the Journals of Computational Linguistics, Language Resources and Evaluations, Natural Language Engineering, Journal of Artificial Intelligence Research, IEEE Transactions on Affective Computing, and  Transactions of the Association for Computational Linguistics. She was a program co-chair for EMNLP 2009 and ACL 2011, and a general chair for NAACL 2015 and *SEM 2019. She is an ACM Fellow, a AAAI Fellow, and currently serves as the President of the ACL. She is the recipient of a Sarah Goddard Power award (2019) for her contributions to diversity in science, and the recipient of a Presidential Early Career Award for Scientists and Engineers awarded by President Obama (2009).
+
+
+		</section>
+		<!-- Section 2: Additional Information -->
+		<section id="additional-info">
+      <h3>Talk title: "The Other Side(s) of Word Embeddings" </h3>
+      Word embeddings have largely been a "success story" in our field. They have enabled progress in numerous language processing applications, and have facilitated the application of large-scale language analyses in other domains, such as social sciences and humanities.  While less talked about, word embeddings also have many shortcomings -- instability, lack of transparency, biases, and more. In this talk, I will review the "ups" and "downs" of word embeddings, discuss  tradeoffs, and chart potential future research directions to address some of the downsides of these word representations.
+
+		</section>
+	</div>
+</body>
+
+
+---
+
+<body>
+  <div class="container">
+		<!-- Section 1: Biography -->
+		<section id="main-bio">
+			<!-- h2: Tier-2 Headline (Not as important as the h1 header, but more than one allowed). -->
 			<h2>Dr. Isabelle Augenstein</h2>
       <h4>Professor at the University of Copenhagen</h4>
       <br>
 			<!-- Headshot image -->
-			<img width="230" id="bio-image" src="{{ 'assets/images/isabelle.png'| relative_url }}"  align="left" alt="Isabelle Augenstein" hspace="10">
+			<img width="225" id="bio-image" src="{{ 'assets/images/isabelle.png'| relative_url }}"  align="left" alt="Isabelle Augenstein" hspace="10">
       Isabelle Augenstein is an associate professor at the University of Copenhagen, where she heads the Copenhagen Natural Language Understanding research group as well as the Natural Language Processing section. Her main research interests are fact checking, low-resource learning and explainability. Prior to this, she was a postdoctoral researcher at University College London and a PhD student at the University of Sheffield. She is the president of the ACL Special Interest Group on Representation Learning (SIGREP) and maintains the BIG Directory of members of underrepresented groups and supporters in Natural Language Processing.
 
 		</section>
@@ -95,7 +121,7 @@ css: "/assets/css/index.css"
       <h4>Professor at the University of Minnesota, Duluth</h4>
       <br>
 			<!-- Headshot image -->
-			<img width="220" id="bio-image" src="{{ 'assets/images/Pedersen_Ted.jpg'| relative_url }}"  align="left" alt="Ted_Pedersen" hspace="10">
+			<img width="215" id="bio-image" src="{{ 'assets/images/Pedersen_Ted.jpg'| relative_url }}"  align="left" alt="Ted_Pedersen" hspace="10">
       Ted Pedersen is a Professor in the Department of Computer Science at the University of Minnesota, Duluth. His research interests are in Natural Language Processing and most recently are focused on computational humor and identifying hate speech, with a particular focus on Islamophobia. His research has previously been supported by the National Institutes of Health (NIH) and a National Science Foundation (NSF) CAREER award. More details are available at <a href="http://www.d.umn.edu/~tpederse ">http://www.d.umn.edu/~tpederse .</a>.
 		</section>
     <br>
