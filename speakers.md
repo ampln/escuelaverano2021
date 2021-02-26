@@ -22,9 +22,7 @@ css: "/assets/css/index.css"
       <br>
 			<!-- Headshot image -->
 			<img width="225" id="bio-image" src="{{ 'assets/images/Rada.jpg'| relative_url }}"  align="left" alt="Rada Mihalcea" hspace="10">
-      <p>
       Rada Mihalcea is a Professor of Computer Science and Engineering at the University of Michigan and the Director of the Michigan Artificial Intelligence Lab. Her research interests are in computational linguistics, with a focus on lexical semantics, multilingual natural language processing, and computational social sciences. She serves or has served on the editorial boards of the Journals of Computational Linguistics, Language Resources and Evaluations, Natural Language Engineering, Journal of Artificial Intelligence Research, IEEE Transactions on Affective Computing, and  Transactions of the Association for Computational Linguistics. She was a program co-chair for EMNLP 2009 and ACL 2011, and a general chair for NAACL 2015 and *SEM 2019. She is an ACM Fellow, a AAAI Fellow, and currently serves as the President of the ACL. She is the recipient of a Sarah Goddard Power award (2019) for her contributions to diversity in science, and the recipient of a Presidential Early Career Award for Scientists and Engineers awarded by President Obama (2009).
-      </p>
 
 		</section>
 		<!-- Section 2: Additional Information -->
