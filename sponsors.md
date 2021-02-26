@@ -18,10 +18,10 @@ The Mexican NLP Summer School is possible thanks to the efforts of many people. 
    <img height="130" src="{{ 'assets/images/alianzaIA.png'| relative_url }}" alt="AlianzaIA MX" hspace="30">
  </div>
  <div class="column">
-   <img height="100" src="{{ 'assets/images/SMIA.png'| relative_url }}" alt="SMIA" hspace="30">
+   <img height="900" src="{{ 'assets/images/SMIA.png'| relative_url }}" alt="SMIA" hspace="30">
  </div>
  <div class="column">
-   <img height="90" src="{{ 'assets/images/ACL.png'| relative_url }}" alt="ACL" hspace="20">
+   <img height="80" src="{{ 'assets/images/ACL.png'| relative_url }}" alt="ACL" hspace="20">
  </div>
  <div class="column">
    <img height="110" src="{{ 'assets/images/red.jpg'| relative_url }}" alt="RedTTL" hspace="20">
@@ -29,7 +29,8 @@ The Mexican NLP Summer School is possible thanks to the efforts of many people. 
 </div>
 
 ---
-### Universities and Research Institutes:
+#### Universities and Research Institutes:
+
 
 <div class="row">
  <div class="column">
@@ -42,18 +43,18 @@ The Mexican NLP Summer School is possible thanks to the efforts of many people. 
    <img height="120" src="{{ 'assets/images/IIMAS.png'| relative_url }}" alt="IIMAS UNAM" hspace="30">
  </div>
  <div class="column">
-   <img height="120" src="{{ 'assets/images/CIC_IPN.jpg'| relative_url }}" alt="CIC IPN" hspace="20">
+   <img height="120" src="{{ 'assets/images/CIC_IPN.jpg'| relative_url }}" alt="CIC IPN" hspace="40">
  </div>
  <div class="column">
-   <img height="100" src="{{ 'assets/images/UTN.png'| relative_url }}" alt="UTN" hspace="20">
+   <img height="100" src="{{ 'assets/images/UTN.png'| relative_url }}" alt="UTN" hspace="40">
  </div>
  <div class="column">
-   <img height="100" src="{{ 'assets/images/inaoe.png'| relative_url }}" alt="INAOE" hspace="20">
+   <img height="100" src="{{ 'assets/images/inaoe.png'| relative_url }}" alt="INAOE" hspace="40">
  </div>
 </div>
 
 ---
-### Industry:
+#### Industry:
 
 
 ---
