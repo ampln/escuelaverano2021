@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Speakers
+css: "/assets/css/index.css"
 ---
 
 <div class="list-filters">
