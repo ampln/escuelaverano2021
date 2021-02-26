@@ -17,6 +17,58 @@ css: "/assets/css/index.css"
 		<!-- Section 1: Biography -->
 		<section id="main-bio">
 			<!-- h2: Tier-2 Headline (Not as important as the h1 header, but more than one allowed). -->
+			<h2>Dr. Sujith Ravi</h2>
+      <h4>Director at Amazon Alexa AI</h4>
+      <br>
+			<!-- Headshot image -->
+			<img width="220" id="bio-image" src="{{ 'assets/images/SujithRavi.jpg'| relative_url }}"  align="left" alt="Sujith Ravi" hspace="10">
+      Dr. Sujith Ravi is a Director at Amazon Alexa AI where he is leading efforts to build the future of multimodal conversational AI experiences at scale. Prior to that, he was leading and managing multiple ML and NLP teams and efforts in Google AI. He founded and headed Google’s large-scale graph-based semi-supervised learning platform, deep learning platform for structured and unstructured data as well as on-device machine learning efforts for products used by billions of people in Search, Ads, Assistant, Gmail, Photos, Android, Cloud and YouTube. These technologies power conversational AI (e.g., Smart Reply), Web and Image Search; On-Device predictions in Android and Assistant; and ML platforms like Neural Structured Learning in TensorFlow, Learn2Compress as Google Cloud service, TensorFlow Lite for edge devices.
+      <br>
+      Dr. Ravi has authored over 100 scientific publications and patents in top-tier machine learning and natural language processing conferences. His work has been featured in press: Wired, Forbes, Forrester, New York Times, TechCrunch, VentureBeat, Engadget, New Scientist, among others, and also won the SIGDIAL Best Paper Award in 2019 and ACM SIGKDD Best Research Paper Award in 2014. For multiple years, he was a mentor for Google Launchpad startups. Dr. Ravi was the Co-Chair (AI and deep learning) for the 2019 National Academy of Engineering (NAE) Frontiers of Engineering symposium. He was also the Co-Chair for ACL 2021, EMNLP 2020, ICML 2019, NAACL 2019, and NeurIPS 2018 ML workshops and regularly serves as Senior/Area Chair and PC of top-tier machine learning and natural language processing conferences like NeurIPS, ICML, ACL, NAACL, AAAI, EMNLP, COLING, KDD, and WSDM.
+
+		</section>
+		<!-- Section 2: Additional Information -->
+		<section id="additional-info">
+      <h3>Talk title: "Powering Deep Learning with Structure"</h3>
+      
+		</section>
+	</div>
+</body>
+
+---
+
+
+<body>
+  <div class="container">
+		<!-- Section 1: Biography -->
+		<section id="main-bio">
+			<!-- h2: Tier-2 Headline (Not as important as the h1 header, but more than one allowed). -->
+			<h2>Dr. Ted Pedersen</h2>
+      <h4>Professor in the University of Minnesota, Duluth</h4>
+      <br>
+			<!-- Headshot image -->
+			<img width="220" id="bio-image" src="{{ 'assets/images/Pedersen_Ted.jpg'| relative_url }}"  align="left" alt="Ted_Pedersen" hspace="10">
+      Ted Pedersen is a Professor in the Department of Computer Science at the University of Minnesota, Duluth. His research interests are in Natural Language Processing and most recently are focused on computational humor and identifying hate speech, with a particular focus on Islamophobia. His research has previously been supported by the National Institutes of Health (NIH) and a National Science Foundation (NSF) CAREER award. More details are available at <a href="http://www.d.umn.edu/~tpederse ">http://www.d.umn.edu/~tpederse .</a>.
+		</section>
+    <br>
+    <br>
+		<!-- Section 2: Additional Information -->
+		<section id="additional-info">
+      <h3>Contact information</h3>
+			<ul>
+				<li><strong>Web:</strong> <a href="http://www.d.umn.edu/~tpederse">Personal page.</a></li>
+			</ul>
+		</section>
+	</div>
+</body>
+
+---
+
+<body>
+  <div class="container">
+		<!-- Section 1: Biography -->
+		<section id="main-bio">
+			<!-- h2: Tier-2 Headline (Not as important as the h1 header, but more than one allowed). -->
 			<h2>Dr. Pablo Rivas</h2>
       <h4>Assistant Professor of Computer Science, Baylor University</h4>
       <br>
@@ -48,7 +100,7 @@ css: "/assets/css/index.css"
 		<section id="main-bio">
 			<!-- h2: Tier-2 Headline (Not as important as the h1 header, but more than one allowed). -->
 			<h2>Dr. Leticia C. Cagnina</h2>
-      <h4>Professor at the UNSL, Argentina</h4>
+      <h4>Professor at the Universidad Nacional de San Luis, Argentina</h4>
       <br>
 			<!-- Headshot image -->
 			<img width="200" id="bio-image" src="{{ 'assets/images/LeticiaCagnina.jpg'| relative_url }}"  align="left" alt="Leticia C. Cagnina" hspace="10">
