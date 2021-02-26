@@ -17,6 +17,29 @@ css: "/assets/css/index.css"
 		<!-- Section 1: Biography -->
 		<section id="main-bio">
 			<!-- h2: Tier-2 Headline (Not as important as the h1 header, but more than one allowed). -->
+			<h2>Dr. Isabelle Augenstein</h2>
+      <h4>Professor at the University of Copenhagen</h4>
+      <br>
+			<!-- Headshot image -->
+			<img width="230" id="bio-image" src="{{ 'assets/images/isabelle.png'| relative_url }}"  align="left" alt="Isabelle Augenstein" hspace="10">
+      Isabelle Augenstein is an associate professor at the University of Copenhagen, where she heads the Copenhagen Natural Language Understanding research group as well as the Natural Language Processing section. Her main research interests are fact checking, low-resource learning and explainability. Prior to this, she was a postdoctoral researcher at University College London and a PhD student at the University of Sheffield. She is the president of the ACL Special Interest Group on Representation Learning (SIGREP) and maintains the BIG Directory of members of underrepresented groups and supporters in Natural Language Processing.
+
+		</section>
+		<!-- Section 2: Additional Information -->
+		<section id="additional-info">
+      <h3>Talk title: </h3>
+
+		</section>
+	</div>
+</body>
+
+---
+
+<body>
+  <div class="container">
+		<!-- Section 1: Biography -->
+		<section id="main-bio">
+			<!-- h2: Tier-2 Headline (Not as important as the h1 header, but more than one allowed). -->
 			<h2>Dr. Sujith Ravi</h2>
       <h4>Director at Amazon Alexa AI</h4>
       <br>
@@ -30,7 +53,32 @@ css: "/assets/css/index.css"
 		<!-- Section 2: Additional Information -->
 		<section id="additional-info">
       <h3>Talk title: "Powering Deep Learning with Structure"</h3>
-      
+
+		</section>
+	</div>
+</body>
+---
+
+<body>
+  <div class="container">
+		<!-- Section 1: Biography -->
+		<section id="main-bio">
+			<!-- h2: Tier-2 Headline (Not as important as the h1 header, but more than one allowed). -->
+			<h2>Dr. Heng Ji</h2>
+      <h4>Professor at the University of Illinois at Urbana-Champaign</h4>
+      <br>
+			<!-- Headshot image -->
+			<img width="220" id="bio-image" src="{{ 'assets/images/unknown_speaker.png'| relative_url }}"  align="left" alt="Heng Ji" hspace="10">
+      Heng Ji is a professor at Computer Science Department, and an affiliated faculty member at Electrical and Computer Engineering Department of University of Illinois at Urbana-Champaign. She is an Amazon Scholar. She received her B.A. and M. A. in Computational Linguistics from Tsinghua University, and her M.S. and Ph.D. in Computer Science from New York University. Her research interests focus on Natural Language Processing, especially on Multimedia Multilingual Information Extraction, Knowledge Base Population and Knowledge-driven Generation. She was selected as "Young Scientist" and a member of the Global Future Council on the Future of Computing by the World Economic Forum in 2016 and 2017. The awards she received include "AI's 10 to Watch" Award by IEEE Intelligent Systems in 2013, NSF CAREER award in 2009, Google Research Award in 2009 and 2014, IBM Watson Faculty Award in 2012 and 2014, Bosch Research Award in 2014-2018, and ACL2020 Best Demo Paper award. She was invited by the Secretary of the U.S. Air Force and AFRL to join Air Force Data Analytics Expert Panel to inform the Air Force Strategy 2030. She is the lead of many multi-institution projects and tasks, including the U.S. ARL projects on information fusion and knowledge networks construction, DARPA DEFT Tinker Bell team and DARPA KAIROS RESIN team. She has coordinated the NIST TAC Knowledge Base Population task since 2010. She has served as the Program Committee Co-Chair of many conferences including NAACL-HLT2018. She is elected as the North American Chapter of the Association for Computational Linguistics (NAACL) secretary 2020-2021. Her research has been widely supported by the U.S. government agencies (DARPA, ARL, IARPA, NSF, AFRL, DHS) and industry (Amazon, Google, Bosch, IBM, Disney).
+      <br>
+      Dr. Ravi has authored over 100 scientific publications and patents in top-tier machine learning and natural language processing conferences. His work has been featured in press: Wired, Forbes, Forrester, New York Times, TechCrunch, VentureBeat, Engadget, New Scientist, among others, and also won the SIGDIAL Best Paper Award in 2019 and ACM SIGKDD Best Research Paper Award in 2014. For multiple years, he was a mentor for Google Launchpad startups. Dr. Ravi was the Co-Chair (AI and deep learning) for the 2019 National Academy of Engineering (NAE) Frontiers of Engineering symposium. He was also the Co-Chair for ACL 2021, EMNLP 2020, ICML 2019, NAACL 2019, and NeurIPS 2018 ML workshops and regularly serves as Senior/Area Chair and PC of top-tier machine learning and natural language processing conferences like NeurIPS, ICML, ACL, NAACL, AAAI, EMNLP, COLING, KDD, and WSDM.
+
+		</section>
+		<!-- Section 2: Additional Information -->
+		<section id="additional-info">
+      <h3>Talk title: "How to Write a History Book?"</h3>
+      Understanding events and communicating about events are fundamental human activities. However, it's much more difficult to remember event-related information compared to entity-related information. For example, most people in Mexico will be able to answer the question "Which city is Universidad Nacional Autónoma de México is located in?", but very few people can give a complete answer to "Who died from COVID-19？". Human-written history books are often incomplete and highly biased because "History is written by the victors". In this talk I will present a new research direction on event-centric knowledge base construction from multimedia multilingual sources, and then perform consistency checking and reasoning to detect and correct misinformation. Our minds represent events at various levels of granularity and abstraction, which allows us to quickly access and reason about old and new scenarios. Progress in natural language understanding and computer vision has helped automate some parts of event understanding but the current, first-generation, automated event understanding is overly simplistic since it is local, sequential and flat. Real events are hierarchical and probabilistic. Understanding them requires knowledge in the form of a repository of abstracted event schemas (complex event templates), understanding the progress of time, using background knowledge, and performing global inference. Our approach to second-generation event understanding builds on an incidental supervision approach to inducing an event schema repository that is probabilistic, hierarchically organized and semantically coherent. This facilitates inducing higher-level event representations analysts can interact with, and allow them to guide further reasoning and extract events by constructing a novel structured cross-media cross-lingual common semantic space. To understand the many facets of such complex, dynamic situations, we have developed various novel methods to induce hierarchical narrative graph schemas and apply them to enhance end-to-end joint neural Information Extraction, event coreference resolution, event time prediction, and misinformation detection.
+
 		</section>
 	</div>
 </body>
@@ -44,7 +92,7 @@ css: "/assets/css/index.css"
 		<section id="main-bio">
 			<!-- h2: Tier-2 Headline (Not as important as the h1 header, but more than one allowed). -->
 			<h2>Dr. Ted Pedersen</h2>
-      <h4>Professor in the University of Minnesota, Duluth</h4>
+      <h4>Professor at the University of Minnesota, Duluth</h4>
       <br>
 			<!-- Headshot image -->
 			<img width="220" id="bio-image" src="{{ 'assets/images/Pedersen_Ted.jpg'| relative_url }}"  align="left" alt="Ted_Pedersen" hspace="10">
