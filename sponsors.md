@@ -9,7 +9,7 @@ The Mexican NLP Summer School is possible thanks to the efforts of many people. 
 ---
 #### Organizations:
 
-
+<br>
 <div class="row">
 <div class="column">
   <img height="80" src="{{ 'assets/images/ampln.png'| relative_url }}" alt="AMPLN" hspace="30">
@@ -31,7 +31,7 @@ The Mexican NLP Summer School is possible thanks to the efforts of many people. 
 ---
 #### Universities and Research Institutes:
 
-
+<br>
 <div class="row">
  <div class="column">
    <img height="150" src="{{ 'assets/images/cimat.png'| relative_url }}" alt="CIMAT" hspace="30">
@@ -55,7 +55,7 @@ The Mexican NLP Summer School is possible thanks to the efforts of many people. 
 
 ---
 #### Industry:
-
+<br>
 
 ---
 If you are interested in sponsoring this great effort, please contact us!!
