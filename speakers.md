@@ -33,8 +33,8 @@ css: "/assets/css/index.css"
 
       <h3>Contact information</h3>
 			<ul>
-				<li><strong>Email:</strong> <a href="mailto:anya@cs.unc.edu">anya@cs.unc.edu</a></li>
-				<li><strong>Github:</strong> <a href="https://github.com/angrbrd">https://github.com/angrbrd</a></li>
+				<li><strong>Email:</strong> <a href="mailto:lcagnina@unsl.edu.ar">lcagnina@unsl.edu.ar</a></li>
+				<li><strong>Web:</strong> <a href="https://sites.google.com/site/lcagnina/home">Personal page.</a></li>
 			</ul>
 		</section>
 	</div>
