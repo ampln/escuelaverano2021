@@ -1,17 +1,15 @@
 ---
-layout: home
-title: Mexican NLP Summer School 2021
-subtitle: (June 2-4, 2021)
+layout: page
+title: Program
 css: "/assets/css/index.css"
-cover-img:
-  - "/assets/images/la-lengua-nahuatl3.jpg" : "CDMX, 2021"
+
 ---
 
 <div class="list-filters">
   <a href="/escuelaverano2021/" class="list-filter">Home</a>
   <a href="/escuelaverano2021/about/" class="list-filter">About</a>
   <a href="/escuelaverano2021/speakers/" class="list-filter">Speakers</a>
-  <a href="/escuelaverano2021/calendar/" class="list-filter filter-selected">Calendar</a>
+  <a href="/escuelaverano2021/program/" class="list-filter filter-selected">Program</a>
 </div>
 
 ---

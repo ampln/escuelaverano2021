@@ -17,7 +17,7 @@ author: AMPLN
 navbar-links:
   About: "about"
   Speakers: "speakers"
-  Calendar: "calendar"
+  Program: "program"
   Code of Conduct: "CodigoConducta"
   Organization:
     - Organizers: "chairs"
