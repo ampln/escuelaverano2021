@@ -50,11 +50,6 @@ css: "/assets/css/index.css"
       Isabelle Augenstein is an associate professor at the University of Copenhagen, where she heads the Copenhagen Natural Language Understanding research group as well as the Natural Language Processing section. Her main research interests are fact checking, low-resource learning and explainability. Prior to this, she was a postdoctoral researcher at University College London and a PhD student at the University of Sheffield. She is the president of the ACL Special Interest Group on Representation Learning (SIGREP) and maintains the BIG Directory of members of underrepresented groups and supporters in Natural Language Processing.
 
 		</section>
-		<!-- Section 2: Additional Information -->
-		<section id="additional-info">
-      <h3>Talk title: </h3>
-
-		</section>
 	</div>
 </body>
 
@@ -156,7 +151,6 @@ css: "/assets/css/index.css"
 
       <h3>Contact information</h3>
 			<ul>
-				<li><strong>Email:</strong> <a href="mailto:Pablo_Rivas@Baylor.edu">Pablo_Rivas</a></li>
 				<li><strong>Web:</strong> <a href="https://www.rivas.ai/">Personal page.</a></li>
 			</ul>
 		</section>
@@ -186,7 +180,6 @@ css: "/assets/css/index.css"
 
       <h3>Contact information</h3>
 			<ul>
-				<li><strong>Email:</strong> <a href="mailto:lcagnina@unsl.edu.ar">lcagnina@unsl.edu.ar</a></li>
 				<li><strong>Web:</strong> <a href="https://sites.google.com/site/lcagnina/home">Personal page.</a></li>
 			</ul>
 		</section>
