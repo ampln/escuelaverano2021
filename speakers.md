@@ -11,7 +11,7 @@ css: "/assets/css/index.css"
   <a href="/escuelaverano2021/about/" class="list-filter">About</a>
 </div>
 ---
-## Keynote Speakers
+<h1 align="center">  Keynote Speakers </h1>
 
 <body>
   <div class="container">
@@ -84,7 +84,8 @@ css: "/assets/css/index.css"
 </body>
 
 ---
-## Tutorials
+
+<h1 align="center"> Tutorials</h1>
 
 <body>
   <div class="container">
@@ -95,7 +96,7 @@ css: "/assets/css/index.css"
       <h4>Professor at of Zurich, Switzerland</h4>
       <br>
 			<!-- Headshot image -->
-			<img width="200" id="bio-image" src="{{ 'assets/images/tanja.png'| relative_url }}"  align="left" alt="Tanja Samardžić" hspace="10">
+			<img width="190" id="bio-image" src="{{ 'assets/images/tanja.png'| relative_url }}"  align="left" alt="Tanja Samardžić" hspace="10">
       I am a computational linguist with a background in language theory and machine learning. My research is about developing computational text processing methods and using them to test theoretical hypotheses on how language actually works. I hold a PhD in Computational linguistics from the University of Geneva, where I studied in the group Computational Learning and Computational Linguistics led by Prof Paola Merlo and Dr James Henderson. I am committed to promoting and facilitating the use of computational approaches in the study of language.
 
 		</section>
@@ -173,7 +174,44 @@ css: "/assets/css/index.css"
 </body>
 
 ---
-## Mentors
+
+<body>
+  <div class="container">
+		<!-- Section 1: Biography -->
+		<section id="main-bio">
+			<!-- h2: Tier-2 Headline (Not as important as the h1 header, but more than one allowed). -->
+			<h2>Maël Fabien & Juan Pablo Zuluaga</h2>
+      <h4>Ph.D. students at Idiap Research Institute, Switzerland</h4>
+      <br>
+			<!-- Headshot image -->			
+      <img width="195" id="bio-image" src="{{ 'assets/images/Mael.jpeg'| relative_url }}"  align="left" alt="Mael Fabien" hspace="10">
+      <br>
+			Maël is a Ph.D. student at Idiap Research Institute and EPFL, in speech processing, and applications related to combating organized crime. Maël has a background in Statistics and Data Science, and in widely interested in entrepreneurship and applied ML.
+      <br>
+      <br>
+      <img width="190" id="bio-image" src="{{ 'assets/images/juan.jpeg'| relative_url }}"  align="left" alt="Juan P. Zuluaga" hspace="10">
+      Juan Pablo Zuluaga is currently working at IDIAP as a jointly PhD student with the École polytechnique fédérale de Lausanne, Switzerland. He is currently working in EU Horizon 2020 project, dedicated to the development of an Automatic Air Traffic Speech Recognition system, allowing to collect, organize and pre-process air-traffic control (voice communication) data from air space. His main interests are automatic speech recognition and speech understanding. Also interested in biomedical imaging and artificial general intelligence.      
+		</section>
+
+		<!-- Section 2: Additional Information -->
+		<section id="additional-info">
+
+			<h3>Tutorial: “An introduction to speech-based technologies for Natural Language Processing applications”</h3>
+      Since the last two decades, the amount of data generated and collected has grown exponentially, and especially through the rise of unstructured data such as images, videos or text. More recently, audio and speech data have gained a large interest, for example through voice assistants. Companies like Google, Facebook, Apple, and Amazon have shown an increasing interest in professionals with skills and tools for 'understanding' and 'transforming' the massive flow of speech data in relevant information. Some of the most important speech-based technologies are voice activity detection, speaker diarization and identification, and automatic speech recognition. These techologies are often used as an input to various NLP applications afterwards. This brief workshop will give you a set of basic tools for grasping the main aspects of speech-based technologies and how they can be implemented in real-life cases.
+
+      <h3>Contact information</h3>
+			<ul>
+				<li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/mael-fabien/">Maël's LinkedIn</a></li>
+        <li><strong>Blog:</strong> <a href="https://maelfabien.github.io/">Maël's GitHub</a></li>
+        <li><strong>Twitter:</strong> <a href="https://twitter.com/Pablogomez3">Juan's Twitter</a></li>
+
+			</ul>
+		</section>
+	</div>
+</body>
+
+---
+<h1 align="center"> Mentors </h1>
 
 <body>
   <div class="container">
@@ -202,8 +240,8 @@ css: "/assets/css/index.css"
       <h4>Professor at the University of Minnesota, Duluth</h4>
       <br>
 			<!-- Headshot image -->
-			<img width="215" id="bio-image" src="{{ 'assets/images/Pedersen_Ted.jpg'| relative_url }}"  align="left" alt="Ted_Pedersen" hspace="10">
-      Ted Pedersen is a Professor in the Department of Computer Science at the University of Minnesota, Duluth. His research interests are in Natural Language Processing and most recently are focused on computational humor and identifying hate speech, with a particular focus on Islamophobia. His research has previously been supported by the National Institutes of Health (NIH) and a National Science Foundation (NSF) CAREER award. More details are available at <a href="http://www.d.umn.edu/~tpederse ">http://www.d.umn.edu/~tpederse .</a>.
+			<img width="205" id="bio-image" src="{{ 'assets/images/Pedersen_Ted.jpg'| relative_url }}"  align="left" alt="Ted_Pedersen" hspace="10">
+      Ted Pedersen is a Professor in the Department of Computer Science at the University of Minnesota, Duluth. His research interests are in Natural Language Processing and most recently are focused on computational humor and identifying hate speech, with a particular focus on Islamophobia. His research has previously been supported by the National Institutes of Health (NIH) and a National Science Foundation (NSF) CAREER award. More details are available at <a href="http://www.d.umn.edu/~tpederse ">http://www.d.umn.edu/~tpederse</a>
 		</section>
     <br>
     <br>
@@ -213,6 +251,52 @@ css: "/assets/css/index.css"
 			<ul>
 				<li><strong>Web:</strong> <a href="http://www.d.umn.edu/~tpederse">Personal page.</a></li>
 			</ul>
+		</section>
+	</div>
+</body>
+
+---
+
+<body>
+  <div class="container">
+		<!-- Section 1: Biography -->
+		<section id="main-bio">
+			<!-- h2: Tier-2 Headline (Not as important as the h1 header, but more than one allowed). -->
+			<h2>Dr. Steven Bethard</h2>
+      <h4>Professor at the University of Arizona</h4>
+      <br>
+			<!-- Headshot image -->
+			<img width="215" id="bio-image" src="{{ 'assets/images/Steven-Bethard.jpg'| relative_url }}"  align="left" alt="Steven Bethard" hspace="10">
+      I joined the University of Arizona School of Information in August 2016, after three years as an assistant professor in Computer and Information Science at the University of Alabama at Birmingham. I previously worked as a postdoctoral researcher at Stanford University's Natural Language Processing group, Johns Hopkins University's Human Language Technology Center of Excellence, KULeuven's Language Intelligence and Information Retrieval group in Belgium, and the University of Colorado's Center for Language and Education Research.
+      My research interests include natural language processing and machine learning theory and applications, including modeling the language of time and timelines, normalizing text to medical and geospatial ontologies, and information extraction models for clinical applications. There is a large community at the University of Arizona pursuing similar natural language processing research. Visit us at: <a href="http://nlp.arizona.edu/"> http://nlp.arizona.edu/ </a>
+
+		</section>
+    <br>
+    <br>
+		<!-- Section 2: Additional Information -->
+		<section id="additional-info">
+      <h3>Contact information</h3>
+			<ul>
+				<li><strong>Web:</strong> <a href="https://bethard.faculty.arizona.edu/">Personal page.</a></li>
+			</ul>
+		</section>
+	</div>
+</body>
+
+---
+
+<body>
+  <div class="container">
+		<!-- Section 1: Biography -->
+		<section id="main-bio">
+			<!-- h2: Tier-2 Headline (Not as important as the h1 header, but more than one allowed). -->
+			<h2>Dr. Daisuke Kawahara</h2>
+      <h4>Professor at the Waseda University</h4>
+      <br>
+			<!-- Headshot image -->
+			<img width="220" id="bio-image" src="{{ 'assets/images/daisuke_kawahara.jpg'| relative_url }}"  align="left" alt="Daisuke Kawahara" hspace="10">
+      Daisuke Kawahara received his B.S. and M.S. in Electronic Science and Engineering from Kyoto University in 1997 and 1999, respectively. He obtained his Ph.D. in Informatics from Kyoto University in 2005. He is currently a professor of the department of communications and computer engineering, Waseda University. His research interests center on natural language processing, particularly knowledge acquisition and text understanding.
+
 		</section>
 	</div>
 </body>
