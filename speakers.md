@@ -244,7 +244,6 @@ css: "/assets/css/index.css"
       Ted Pedersen is a Professor in the Department of Computer Science at the University of Minnesota, Duluth. His research interests are in Natural Language Processing and most recently are focused on computational humor and identifying hate speech, with a particular focus on Islamophobia. His research has previously been supported by the National Institutes of Health (NIH) and a National Science Foundation (NSF) CAREER award. More details are available at <a href="http://www.d.umn.edu/~tpederse ">http://www.d.umn.edu/~tpederse</a>
 		</section>
     <br>
-    <br>
 		<!-- Section 2: Additional Information -->
 		<section id="additional-info">
       <h3>Contact information</h3>
@@ -256,7 +255,6 @@ css: "/assets/css/index.css"
 </body>
 
 ---
-
 <body>
   <div class="container">
 		<!-- Section 1: Biography -->
@@ -271,8 +269,6 @@ css: "/assets/css/index.css"
       My research interests include natural language processing and machine learning theory and applications, including modeling the language of time and timelines, normalizing text to medical and geospatial ontologies, and information extraction models for clinical applications. There is a large community at the University of Arizona pursuing similar natural language processing research. Visit us at: <a href="http://nlp.arizona.edu/"> http://nlp.arizona.edu/ </a>
 
 		</section>
-    <br>
-    <br>
 		<!-- Section 2: Additional Information -->
 		<section id="additional-info">
       <h3>Contact information</h3>
