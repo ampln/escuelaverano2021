@@ -11,6 +11,7 @@ css: "/assets/css/index.css"
   <a href="/escuelaverano2021/about/" class="list-filter">About</a>
 </div>
 ---
+## Keynote Speakers
 
 <body>
   <div class="container">
@@ -29,25 +30,6 @@ css: "/assets/css/index.css"
 		<section id="additional-info">
       <h3>Talk title: "The Other Side(s) of Word Embeddings" </h3>
       Word embeddings have largely been a "success story" in our field. They have enabled progress in numerous language processing applications, and have facilitated the application of large-scale language analyses in other domains, such as social sciences and humanities.  While less talked about, word embeddings also have many shortcomings -- instability, lack of transparency, biases, and more. In this talk, I will review the "ups" and "downs" of word embeddings, discuss  tradeoffs, and chart potential future research directions to address some of the downsides of these word representations.
-
-		</section>
-	</div>
-</body>
-
-
----
-
-<body>
-  <div class="container">
-		<!-- Section 1: Biography -->
-		<section id="main-bio">
-			<!-- h2: Tier-2 Headline (Not as important as the h1 header, but more than one allowed). -->
-			<h2>Dr. Isabelle Augenstein</h2>
-      <h4>Professor at the University of Copenhagen</h4>
-      <br>
-			<!-- Headshot image -->
-			<img width="220" id="bio-image" src="{{ 'assets/images/isabelle.png'| relative_url }}"  align="left" alt="Isabelle Augenstein" hspace="10">
-      Isabelle Augenstein is an associate professor at the University of Copenhagen, where she heads the Copenhagen Natural Language Understanding research group as well as the Natural Language Processing section. Her main research interests are fact checking, low-resource learning and explainability. Prior to this, she was a postdoctoral researcher at University College London and a PhD student at the University of Sheffield. She is the president of the ACL Special Interest Group on Representation Learning (SIGREP) and maintains the BIG Directory of members of underrepresented groups and supporters in Natural Language Processing.
 
 		</section>
 	</div>
@@ -102,27 +84,31 @@ css: "/assets/css/index.css"
 </body>
 
 ---
-
+## Tutorials
 
 <body>
   <div class="container">
 		<!-- Section 1: Biography -->
 		<section id="main-bio">
 			<!-- h2: Tier-2 Headline (Not as important as the h1 header, but more than one allowed). -->
-			<h2>Dr. Ted Pedersen</h2>
-      <h4>Professor at the University of Minnesota, Duluth</h4>
+			<h2>Dr. Tanja Samardžić</h2>
+      <h4>Professor at of Zurich, Switzerland</h4>
       <br>
 			<!-- Headshot image -->
-			<img width="215" id="bio-image" src="{{ 'assets/images/Pedersen_Ted.jpg'| relative_url }}"  align="left" alt="Ted_Pedersen" hspace="10">
-      Ted Pedersen is a Professor in the Department of Computer Science at the University of Minnesota, Duluth. His research interests are in Natural Language Processing and most recently are focused on computational humor and identifying hate speech, with a particular focus on Islamophobia. His research has previously been supported by the National Institutes of Health (NIH) and a National Science Foundation (NSF) CAREER award. More details are available at <a href="http://www.d.umn.edu/~tpederse ">http://www.d.umn.edu/~tpederse .</a>.
+			<img width="200" id="bio-image" src="{{ 'assets/images/tanja.png'| relative_url }}"  align="left" alt="Tanja Samardžić" hspace="10">
+      I am a computational linguist with a background in language theory and machine learning. My research is about developing computational text processing methods and using them to test theoretical hypotheses on how language actually works. I hold a PhD in Computational linguistics from the University of Geneva, where I studied in the group Computational Learning and Computational Linguistics led by Prof Paola Merlo and Dr James Henderson. I am committed to promoting and facilitating the use of computational approaches in the study of language.
+
 		</section>
-    <br>
-    <br>
+
 		<!-- Section 2: Additional Information -->
 		<section id="additional-info">
+
+			<h3>Tutorial: “Language (de)standardisation and NLP”</h3>
+			   The term non-standard language covers all linguistic expressions not conforming to an official orthography and pronunciation. Such expressions include dialects (written and spoken), historical texts and social media posts. They require special processing techniques in order to deal with the fact that the same word can be written (or pronounced) very differently in the same text (or recording). This tutorial will provide an introduction to the notion of language standard and an overview of the challenges that increasingly non-standard writing and speech pose to NLP. We will try out text normalisation as a technique to deal with noisy text and discuss other potential approaches.
+
       <h3>Contact information</h3>
 			<ul>
-				<li><strong>Web:</strong> <a href="http://www.d.umn.edu/~tpederse">Personal page.</a></li>
+				<li><strong>Web:</strong> <a href="https://www.spur.uzh.ch/en/departments/personen/tanjasamardzic.html">Personal page.</a></li>
 			</ul>
 		</section>
 	</div>
@@ -146,7 +132,7 @@ css: "/assets/css/index.css"
 		<!-- Section 2: Additional Information -->
 		<section id="additional-info">
 
-			<h3>Tutorial: </h3>
+			<h3>Tutorial: Embedded NLP with Tensorflow Lite for Absolute Beginners</h3>
 
 
       <h3>Contact information</h3>
@@ -181,6 +167,51 @@ css: "/assets/css/index.css"
       <h3>Contact information</h3>
 			<ul>
 				<li><strong>Web:</strong> <a href="https://sites.google.com/site/lcagnina/home">Personal page.</a></li>
+			</ul>
+		</section>
+	</div>
+</body>
+
+---
+## Mentors
+
+<body>
+  <div class="container">
+		<!-- Section 1: Biography -->
+		<section id="main-bio">
+			<!-- h2: Tier-2 Headline (Not as important as the h1 header, but more than one allowed). -->
+			<h2>Dr. Isabelle Augenstein</h2>
+      <h4>Professor at the University of Copenhagen</h4>
+      <br>
+			<!-- Headshot image -->
+			<img width="220" id="bio-image" src="{{ 'assets/images/isabelle.png'| relative_url }}"  align="left" alt="Isabelle Augenstein" hspace="10">
+      Isabelle Augenstein is an associate professor at the University of Copenhagen, where she heads the Copenhagen Natural Language Understanding research group as well as the Natural Language Processing section. Her main research interests are fact checking, low-resource learning and explainability. Prior to this, she was a postdoctoral researcher at University College London and a PhD student at the University of Sheffield. She is the president of the ACL Special Interest Group on Representation Learning (SIGREP) and maintains the BIG Directory of members of underrepresented groups and supporters in Natural Language Processing.
+
+		</section>
+	</div>
+</body>
+
+---
+
+<body>
+  <div class="container">
+		<!-- Section 1: Biography -->
+		<section id="main-bio">
+			<!-- h2: Tier-2 Headline (Not as important as the h1 header, but more than one allowed). -->
+			<h2>Dr. Ted Pedersen</h2>
+      <h4>Professor at the University of Minnesota, Duluth</h4>
+      <br>
+			<!-- Headshot image -->
+			<img width="215" id="bio-image" src="{{ 'assets/images/Pedersen_Ted.jpg'| relative_url }}"  align="left" alt="Ted_Pedersen" hspace="10">
+      Ted Pedersen is a Professor in the Department of Computer Science at the University of Minnesota, Duluth. His research interests are in Natural Language Processing and most recently are focused on computational humor and identifying hate speech, with a particular focus on Islamophobia. His research has previously been supported by the National Institutes of Health (NIH) and a National Science Foundation (NSF) CAREER award. More details are available at <a href="http://www.d.umn.edu/~tpederse ">http://www.d.umn.edu/~tpederse .</a>.
+		</section>
+    <br>
+    <br>
+		<!-- Section 2: Additional Information -->
+		<section id="additional-info">
+      <h3>Contact information</h3>
+			<ul>
+				<li><strong>Web:</strong> <a href="http://www.d.umn.edu/~tpederse">Personal page.</a></li>
 			</ul>
 		</section>
 	</div>
