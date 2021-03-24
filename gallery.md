@@ -11,7 +11,7 @@ title: Gallery
 </div>  
 
 ---
-### IA Bloomberg group!
+### AI Bloomberg group!
 
 <div class="row">
 <div class="column">
