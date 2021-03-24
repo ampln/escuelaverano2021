@@ -56,7 +56,11 @@ The Mexican NLP Summer School is possible thanks to the efforts of many people. 
 ---
 #### Industry:
 <br>
-
+<div class="row">
+ <div class="column">
+   <img height="150" src="{{ 'assets/images/BBGEngineering_black.png'| relative_url }}" alt="Bloomberg Engineering" hspace="30">
+ </div>
+ </div>
 ---
 If you are interested in sponsoring this great effort, please contact us!!
 
