@@ -52,7 +52,7 @@ The Mexican NLP Summer School is possible thanks to the efforts of many people. 
    <img height="100" src="{{ 'assets/images/inaoe.png'| relative_url }}" alt="INAOE" hspace="30">
  </div>
  <div class="column">
-   <img height="70" src="{{ 'assets/images/idiap.png'| relative_url }}" alt="Idiap" hspace="30">
+   <img height="70" src="{{ 'assets/images/Idiap.png'| relative_url }}" alt="Idiap" hspace="30">
  </div>
 </div>
 
