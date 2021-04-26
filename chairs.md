@@ -51,3 +51,4 @@ title: Organizing Committee
 * [Centro de Investigación en Computación](https://www.cic.ipn.mx/)
 * [Instituto Nacional de Astrofísica, Óptica y Electrónica](https://www.inaoep.mx/)
 * [Universidad Nacional Autónoma de México](http://www.unam.mx/)
+* [Universidad Tecnológica de Nogales, Sonora](http://utnogales.edu.mx/tic/#)

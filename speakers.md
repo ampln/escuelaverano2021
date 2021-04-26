@@ -36,6 +36,31 @@ css: "/assets/css/index.css"
 </body>
 
 ---
+
+<body>
+  <div class="container">
+		<!-- Section 1: Biography -->
+		<section id="main-bio">
+			<!-- h2: Tier-2 Headline (Not as important as the h1 header, but more than one allowed). -->
+			<h2>Dr. Christopher Manning</h2>
+      <h4>Professor at Stanford University</h4>
+      <br>
+			<!-- Headshot image -->
+			<img width="225" id="bio-image" src="{{ 'assets/images/Manning.jpg'| relative_url }}"  align="left" alt="Pascale Fung" hspace="10">
+      Christopher Manning is the inaugural Thomas M. Siebel Professor in Machine Learning in the Departments of Computer Science and Linguistics at Stanford University and Director of the Stanford Artificial Intelligence Laboratory (SAIL). His research goal is computers that can intelligently process, understand, and generate human language material. Manning is a leader in applying Deep Learning to Natural Language Processing, with well-known research on Tree Recursive Neural Networks, the GloVe model of word vectors, sentiment analysis, neural network dependency parsing, neural machine translation, question answering, and deep language understanding. He also focuses on computational linguistic approaches to parsing, robust textual inference and multilingual language processing, including being a principal developer of Stanford Dependencies and Universal Dependencies. He is an ACM Fellow, a AAAI Fellow, and an ACL Fellow, and a Past President of the ACL (2015). His research has won ACL, Coling, EMNLP, and CHI Best Paper Awards. He has a B.A. (Hons) from The Australian National University and a Ph.D. from Stanford in 1994, and he held faculty positions at Carnegie Mellon University and the University of Sydney before returning to Stanford. He is the founder of the Stanford NLP group (<a href="https://twitter.com/stanfordnlp?lang=en">@stanfordnlp</a>) and manages development of the Stanford CoreNLP software.
+
+		</section>
+		<!-- Section 2: Additional Information -->
+		<section id="additional-info">
+      <h3>Talk title: "Large Language Models: Linguistic Structure Discovery and More Efficient Training" </h3>
+      In this talk, I will first briefly outline the recent sea change in NLP with the rise of large pre-trained transformer language models, such as BERT, and the effectiveness of these models on NLP tasks. I will then focus in on two particular aspects. First, I will show how, despite only using a simple self-supervision task, BERT-like models not only capture word associations but act as linguistic structure discovery devices, capturing such things as human language syntax and pronominal coreference. Secondly, I will emphasize how recent progress has been bought at enormous computational cost and explore the ELECTRA model, in which an alternative discriminative learning method allows building highly effective neural word representations with considerably less computation.
+
+
+		</section>
+	</div>
+</body>
+
+---
 <body>
   <div class="container">
 		<!-- Section 1: Biography -->
@@ -275,6 +300,24 @@ css: "/assets/css/index.css"
 			<!-- Headshot image -->
 			<img width="220" id="bio-image" src="{{ 'assets/images/isabelle.png'| relative_url }}"  align="left" alt="Isabelle Augenstein" hspace="10">
       Isabelle Augenstein is an associate professor at the University of Copenhagen, where she heads the Copenhagen Natural Language Understanding research group as well as the Natural Language Processing section. Her main research interests are fact checking, low-resource learning and explainability. Prior to this, she was a postdoctoral researcher at University College London and a PhD student at the University of Sheffield. She is the president of the ACL Special Interest Group on Representation Learning (SIGREP) and maintains the BIG Directory of members of underrepresented groups and supporters in Natural Language Processing.
+
+		</section>
+	</div>
+</body>
+
+---
+
+<body>
+  <div class="container">
+		<!-- Section 1: Biography -->
+		<section id="main-bio">
+			<!-- h2: Tier-2 Headline (Not as important as the h1 header, but more than one allowed). -->
+			<h2>Dr. Luciana Benotti</h2>
+      <h4>Professor at the Universidad Nacional de Córdoba, Argentina</h4>
+      <br>
+			<!-- Headshot image -->
+			<img width="220" id="bio-image" src="{{ 'assets/images/luciana.jpg'| relative_url }}"  align="left" alt="Isabelle Augenstein" hspace="10">
+      Luciana Benotti es Profesora Asociada en Ciencias de la Computación en la Universidad Nacional de Córdoba e Investigadora en Inteligencia Artificial en CONICET, Argentina. Sus intereses de investigación incluyen diferentes aspectos del procesamiento del lenguaje natural situado e interactivo, como interpretar instrucciones en un diálogo, generar preguntas contextualizadas y decidir cuándo hablar en un sistema de diálogo, entre otros. Está particularmente interesada en cómo las características lingüísticas y las no lingüísticas contribuyen al significado que se transmite durante una conversación. Dichas características incluyen lo que están haciendo los participantes conversacionales mientras hablan, el contexto visual, aspectos temporales, etc. Ha sido científica invitada en la Universidad de Trento (2019), la Universidad de Stanford (2018), la Universidad de Roskilde (2014), la Universidad de Costa Rica (2012) y la Universidad del Sur de California (2010).  Tiene un MSc Erasmus Mundus conjunto de la Libera Universitá di Bolzano y la Universidad Politécnica de Madrid y un PhD de la Université de Lorraine. Este año fue elegida como representante latinoamericana para la North American Association for Computational Linguistics NAACL.
 
 		</section>
 	</div>
