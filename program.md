@@ -17,8 +17,8 @@ css: "/assets/css/index.css"
 
 The Mexican NLP Summer School 2021 is currently scheduled to take place **online** from **June 2nd to June 4th**, 2021. All the activities are programmed in Mexico's local timezone (<a href="https://www.timeanddate.com/worldclock/mexico/mexico-city">GMT-5</a>)
 
+You can read more information about each talk and tutorial <a href="https://ampln.github.io/escuelaverano2021/speakers/">here.</a>
 
-You can read more information each talk, and tutorial <a href="https://ampln.github.io/escuelaverano2021/speakers/">here.</a>
 ---
 Wednesday, June 2nd.
 
