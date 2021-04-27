@@ -19,6 +19,7 @@ The Mexican NLP Summer School 2021 is currently scheduled to take place **online
 
 You can read more information about each talk and tutorial <a href="https://ampln.github.io/escuelaverano2021/speakers/">here.</a>
 
+<p><a href="https://ampln.github.io/escuelaverano2021/2021-04-27-Registration/">Registration information.</a></p>
 ---
 Wednesday, June 2nd.
 
