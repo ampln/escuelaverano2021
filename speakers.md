@@ -390,3 +390,21 @@ css: "/assets/css/index.css"
 		</section>
 	</div>
 </body>
+
+---
+
+<body>
+  <div class="container">
+		<!-- Section 1: Biography -->
+		<section id="main-bio">
+			<!-- h2: Tier-2 Headline (Not as important as the h1 header, but more than one allowed). -->
+			<h2>Dr. Francisco (Paco) Guzmán</h2>
+      <h4>Researcher at Facebook</h4>
+      <br>
+			<!-- Headshot image -->
+			<img width="220" id="bio-image" src="{{ 'assets/images/Guzman.jpeg'| relative_url }}"  align="left" alt="Francisco Guzman" hspace="10">
+      Paco Guzmán is a Research Scientist working on Translations. His research has been focused on several aspects of Machine Translation including low-resource translation, translation mining, evaluation, and quality estimation. Over the years, Paco has been a speaker and panelist on several events dedicated to increasing diversity in AI. He co-founded the Facebook-Georgia Tech co-teaching program. Before joining Facebook in 2016, Paco was a Research Scientist at Qatar Computing Research Institute in Qatar in 2012-2016. He obtained his PhD in 2011 from ITESM (Monterrey Tech) in Mexico. Paco visited Carnegie Mellon University in 2008-2009 where he worked at the Language Technologies Institute.
+
+		</section>
+	</div>
+</body>
