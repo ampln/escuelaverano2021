@@ -25,7 +25,7 @@ Wednesday, June 2nd.
 
 <div class="row">
 <div class="column">
-  <img height="360" src="{{ 'assets/images/updateWed.png'| relative_url }}" alt="02062021" hspace="30">
+  <img height="360" src="{{ 'assets/images/wednesday0206.png'| relative_url }}" alt="02062021" hspace="30">
 </div>
 </div>  
 
@@ -34,7 +34,7 @@ Thursday, June 3rd.
 
 <div class="row">
 <div class="column">
-  <img height="360" src="{{ 'assets/images/updateThu.png'| relative_url }}" alt="02062021" hspace="30">
+  <img height="360" src="{{ 'assets/images/thursday0306.png'| relative_url }}" alt="03062021" hspace="30">
 </div>
 </div>
 
@@ -43,7 +43,7 @@ Friday, June 4th.
 
 <div class="row">
 <div class="column">
-  <img height="360" src="{{ 'assets/images/friday0406.png'| relative_url }}" alt="02062021" hspace="30">
+  <img height="360" src="{{ 'assets/images/friday0406.png'| relative_url }}" alt="04062021" hspace="30">
 </div>
 </div>  
 
