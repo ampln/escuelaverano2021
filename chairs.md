@@ -36,6 +36,7 @@ title: Organizing Committee
 * [Dr. Adrian Pastor López Monroy](http://personal.cimat.mx:8181/~pastor.lopez/) [![alt text][1.2]][6]
 * [Dr. Hiram Calvo](http://hiramcalvo.com/) [![alt text][1.2]][7]
 * [Dr. Luis Villaseñor Pineda](https://ccc.inaoep.mx/~villasen/)
+* [Dr. Héctor Jiménez Salazar]
 
 ----------
 ### Publicity and Web Committee
