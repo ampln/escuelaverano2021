@@ -169,7 +169,7 @@ css: "/assets/css/index.css"
 		<section id="main-bio">
 			<!-- h2: Tier-2 Headline (Not as important as the h1 header, but more than one allowed). -->
 			<h2>Dr. Tanja Samardžić</h2>
-      <h4>Professor at of Zurich, Switzerland</h4>
+      <h4>Lecturer at University of Zurich, Switzerland</h4>
       <br>
 			<!-- Headshot image -->
 			<img width="190" id="bio-image" src="{{ 'assets/images/tanja.png'| relative_url }}"  align="left" alt="Tanja Samardžić" hspace="10">
