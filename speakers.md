@@ -433,3 +433,21 @@ css: "/assets/css/index.css"
 		</section>
 	</div>
 </body>
+
+---
+
+<body>
+  <div class="container">
+		<!-- Section 1: Biography -->
+		<section id="main-bio">
+			<!-- h2: Tier-2 Headline (Not as important as the h1 header, but more than one allowed). -->
+			<h2>Dr. Gabriel Infante-Lopez</h2>
+      <h4>Principal Data Science at Proofpoint Inc.</h4>
+      <br>
+			<!-- Headshot image -->
+			<img width="220" id="bio-image" src="{{ 'assets/images/Gabriel-Infante-Lopez.jpeg'| relative_url }}"  align="left" alt="Gabriel Infante Lopez" hspace="10">
+      Gabriel Infante-Lopez is a Principal Data Science at Proofpoint Inc. He has a PhD in Natural Language Parsing, and expertise in Formal Methods, Data Mining and Machine Learning. He has more than 15 years' experience in Research and Development. He has worked as Architect designing and implementing Recommendation Engines, Expert Systems for Security, and Machine Learning Lifecycles and Architectures. He was a Principal Engineer at Wildlife Studios, McAfee and Intel. He has produced innovative ideas in Knowledge Representation, Graph Databases and Cyber Security. He has more than 20 international publications and 7 patents. His key interests include security, resilient fault tolerant system, machine learning, big data, knowledge representation and programming languages.
+
+		</section>
+	</div>
+</body>
