@@ -205,23 +205,41 @@ css: "/assets/css/index.css"
 		<!-- Section 1: Biography -->
 		<section id="main-bio">
 			<!-- h2: Tier-2 Headline (Not as important as the h1 header, but more than one allowed). -->
-			<h2>Dr. Pablo Rivas</h2>
-      <h4>Assistant Professor of Computer Science, Baylor University</h4>
+			<h2>Dr. Alexander Gelbukh y Dr. Grigori Sidorov</h2>
+      <h4>Full Professors at CIC-IPN, Mexico</h4>
       <br>
 			<!-- Headshot image -->
-			<img width="280" id="bio-image" src="{{ 'assets/images/PabloRivas.jpg'| relative_url }}"  align="left" alt="Pablo Rivas" hspace="10">
-      My research interests revolve around the problem of computational efficiency and model accuracy on deep and wide machine learning algorithms including the ethical and societal implications of its applications. This involves basic research in the core tenets of machine learning, and large-scale data mining with applications in big data analytics, large-scale multidimensional multispectral signal analysis, natural language processing, computer vision, and health-care imaging. I have worked on support vector machines for regression on massively large datasets and proposed efficient and computationally tractable training algorithms, which provides a focus for my research on large-scale machine learning applications. My interest in deep learning has led me to investigate its accuracy in the detection of leukocoria, which is a symptom of retinal cancer, and producing a software product freely available to the world thanks to our multidisciplinary, collaborative, research team. My research has also explored many problems in the general areas of applied mathematics, numerical optimization, swarm intelligence optimization, evolutionary algorithms, soft computing, fuzzy logic, and neurofuzzy systems.
-		</section>
+			<img width="190" id="bio-image" src="{{ 'assets/images/Gelbukh.jpg'| relative_url }}"  align="left" alt="Alexander Gelbukh" hspace="10">
 
+      <br>
+      Alexander Gelbukh (born 1962) is a Russian professor and a member of Mexican Academy of Sciences. He currently works at Centro de Investigación en Computación, Instituto Politécnico Nacional. His research interest is about computational linguistics. In 2000, he founded CICLing conference to exchange of opinions between the scientists of different countries in the growing area of computational linguistics and intelligent text processing.
+      <br>
+      <br>
+      <br>
+      <br>
+      <img width="190" id="bio-image" src="{{ 'assets/images/Sidorov_2012.jpg'| relative_url }}"  align="left" alt="Grigori Sidorov" hspace="10">
+		</section>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
 		<!-- Section 2: Additional Information -->
 		<section id="additional-info">
 
-			<h3>Tutorial: Embedded NLP with Tensorflow Lite for Absolute Beginners</h3>
+			<h3>Tutorial: Introducción al Procesamiento del Lenguaje Natural </h3>
 
 
       <h3>Contact information</h3>
 			<ul>
-				<li><strong>Web:</strong> <a href="https://www.rivas.ai/">Personal page.</a></li>
+				<li><strong>Web:</strong> <a href="https://www.gelbukh.com/"> Alexander Gelbukh</a></li>
+        <li><strong>Web:</strong> <a href="http://www.cic.ipn.mx/~sidorov/"> Grigori Sidorov</a></li>
 			</ul>
 		</section>
 	</div>
