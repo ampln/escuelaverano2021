@@ -15,6 +15,4 @@ We will verify the eligibility status of all the received applications, and noti
 
 The registration form is <a href="https://forms.gle/xaXRanSDykqdM2UdA" target="_blank">here</a>. **[CLOSED]**
 
-The Google group of the Mexican NLP Summer School is <a href="https://groups.google.com/g/mexican_nlp_summer_school" target="_blank">here</a>.
-
 We are looking forward to welcoming you to this great event!!
