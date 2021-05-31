@@ -43,7 +43,7 @@ Friday, June 4th.
 
 <div class="row">
 <div class="column">
-  <img height="360" src="{{ 'assets/images/friday0406-lopez.png'| relative_url }}" alt="04062021" hspace="30">
+  <img height="360" src="{{ 'assets/images/friday0406.png'| relative_url }}" alt="04062021" hspace="30">
 </div>
 </div>  
 
